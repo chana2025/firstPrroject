@@ -1,0 +1,8 @@
+L:\שנה ב\Full Stack\teacher\c#++\DelegateLesson\DelegateLesson\bin\Debug\DelegateLesson.exe.config
+L:\שנה ב\Full Stack\teacher\c#++\DelegateLesson\DelegateLesson\bin\Debug\DelegateLesson.exe
+L:\שנה ב\Full Stack\teacher\c#++\DelegateLesson\DelegateLesson\bin\Debug\DelegateLesson.pdb
+L:\שנה ב\Full Stack\teacher\c#++\DelegateLesson\DelegateLesson\obj\Debug\DelegateLesson.csproj.AssemblyReference.cache
+L:\שנה ב\Full Stack\teacher\c#++\DelegateLesson\DelegateLesson\obj\Debug\DelegateLesson.csproj.SuggestedBindingRedirects.cache
+L:\שנה ב\Full Stack\teacher\c#++\DelegateLesson\DelegateLesson\obj\Debug\DelegateLesson.csproj.CoreCompileInputs.cache
+L:\שנה ב\Full Stack\teacher\c#++\DelegateLesson\DelegateLesson\obj\Debug\DelegateLesson.exe
+L:\שנה ב\Full Stack\teacher\c#++\DelegateLesson\DelegateLesson\obj\Debug\DelegateLesson.pdb
